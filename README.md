@@ -6,4 +6,4 @@ Besides, YOU wouldn't get hacked if you are careful
 
 - title: Drake Troll
   description: After watching this video, close the first issue in your repository.
-  video: https://github.com/JakeFrostyYT
+  video: https://github.com/JakeFrostyYT/Troll/blob/master/troll.mp4
